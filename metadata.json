@@ -1,0 +1,6 @@
+{
+  "name": "AutoStats GPS Tracker",
+  "description": "Професионално GPS приложение за проследяване на скорост, производителност (0-100) и маршрути.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["GPS Tracking", "Performance Monitoring", "Mapping"]
+}
